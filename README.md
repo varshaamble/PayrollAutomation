@@ -98,7 +98,7 @@ No need to create tables manually
 
  ### Clone the Repository
 ```bash
-cd SalaryAutomation
+cd PayrollAutomation
 
 **Install Dependencies
 pip install fpdf mysql-connector-python

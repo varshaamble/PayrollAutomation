@@ -35,7 +35,9 @@ This application supports loading employee data directly from a standardized PDF
            14. Date of Birth	
            15. MobileNo
            16. Site Expenses
-           and entered data can be in a Standard Format
+
+           
+            entered data can be in a Standard Format
 *****@ How to Use*****
      Click "Use PDF Data" or "Load File" from the application menu.
 

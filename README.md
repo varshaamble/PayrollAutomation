@@ -1,6 +1,6 @@
 SalaryAutomation
 
-# 💰 SalaryAutomation
+# 💰 PayrollAutomation
 
 A Python-based desktop application that automates the process of monthly salary calculation, slip generation, and employee salary record management.
 ----
